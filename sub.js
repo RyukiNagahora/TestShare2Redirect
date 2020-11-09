@@ -1,0 +1,1 @@
+location.href="http://nghryuki.online/TestShare2Redirerct/index.html";
