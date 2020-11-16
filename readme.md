@@ -1,0 +1,1 @@
+https://ryukinagahora.github.io/TestShare2Redirect/
